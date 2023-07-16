@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Vh1qlYp/RypKmUzT+NLwhfOA+VUNAK1nrO5JXhK/gwCQf3+wP/lbWDQRyVsJmmQ4mFn5H51w/nPe3fa8kvBbRA==",
+  "dgSpecHash": "K4rCL9Ix5laF4wR5953uq8+zrPCMO/HGCne3hXbgPK7298NReoWrWlk5l39b21LTR8n0E+/zdHvroX8CQVNEBA==",
   "success": true,
-  "projectFilePath": "C:\\Source\\repos\\Ohce\\OhceTests\\OhceTests.csproj",
+  "projectFilePath": "C:\\Source\\trainn\\OhceTests\\OhceTests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Fatih\\.nuget\\packages\\coverlet.collector\\3.2.0\\coverlet.collector.3.2.0.nupkg.sha512",
     "C:\\Users\\Fatih\\.nuget\\packages\\microsoft.codecoverage\\17.5.0\\microsoft.codecoverage.17.5.0.nupkg.sha512",

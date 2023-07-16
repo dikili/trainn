@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Source\\repos\\Ohce\\OhceTests\\OhceTests.csproj": {}
+    "C:\\Source\\trainn\\OhceTests\\OhceTests.csproj": {}
   },
   "projects": {
-    "C:\\Source\\repos\\Ohce\\OhceTests\\OhceTests.csproj": {
+    "C:\\Source\\trainn\\OhceTests\\OhceTests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Source\\repos\\Ohce\\OhceTests\\OhceTests.csproj",
+        "projectUniqueName": "C:\\Source\\trainn\\OhceTests\\OhceTests.csproj",
         "projectName": "OhceTests",
-        "projectPath": "C:\\Source\\repos\\Ohce\\OhceTests\\OhceTests.csproj",
+        "projectPath": "C:\\Source\\trainn\\OhceTests\\OhceTests.csproj",
         "packagesPath": "C:\\Users\\Fatih\\.nuget\\packages\\",
-        "outputPath": "C:\\Source\\repos\\Ohce\\OhceTests\\obj\\",
+        "outputPath": "C:\\Source\\trainn\\OhceTests\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -30,7 +30,11 @@
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
-            "projectReferences": {}
+            "projectReferences": {
+              "C:\\Source\\trainn\\Ohce\\Ohce.csproj": {
+                "projectPath": "C:\\Source\\trainn\\Ohce\\Ohce.csproj"
+              }
+            }
           }
         },
         "warningProperties": {
@@ -64,6 +68,64 @@
               "version": "[3.2.0, )"
             }
           },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Source\\trainn\\Ohce\\Ohce.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Source\\trainn\\Ohce\\Ohce.csproj",
+        "projectName": "Ohce",
+        "projectPath": "C:\\Source\\trainn\\Ohce\\Ohce.csproj",
+        "packagesPath": "C:\\Users\\Fatih\\.nuget\\packages\\",
+        "outputPath": "C:\\Source\\trainn\\Ohce\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Fatih\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
           "imports": [
             "net461",
             "net462",

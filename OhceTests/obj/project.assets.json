@@ -381,6 +381,16 @@
             "related": ".xml"
           }
         }
+      },
+      "Ohce/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/Ohce.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Ohce.dll": {}
+        }
       }
     }
   },
@@ -975,6 +985,11 @@
         "useSharedDesignerContext.txt",
         "version.txt"
       ]
+    },
+    "Ohce/1.0.0": {
+      "type": "project",
+      "path": "../Ohce/Ohce.csproj",
+      "msbuildProject": "../Ohce/Ohce.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -983,6 +998,7 @@
       "NUnit >= 3.13.3",
       "NUnit.Analyzers >= 3.6.1",
       "NUnit3TestAdapter >= 4.4.2",
+      "Ohce >= 1.0.0",
       "coverlet.collector >= 3.2.0"
     ]
   },
@@ -993,11 +1009,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Source\\repos\\Ohce\\OhceTests\\OhceTests.csproj",
+      "projectUniqueName": "C:\\Source\\trainn\\OhceTests\\OhceTests.csproj",
       "projectName": "OhceTests",
-      "projectPath": "C:\\Source\\repos\\Ohce\\OhceTests\\OhceTests.csproj",
+      "projectPath": "C:\\Source\\trainn\\OhceTests\\OhceTests.csproj",
       "packagesPath": "C:\\Users\\Fatih\\.nuget\\packages\\",
-      "outputPath": "C:\\Source\\repos\\Ohce\\OhceTests\\obj\\",
+      "outputPath": "C:\\Source\\trainn\\OhceTests\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -1016,7 +1032,11 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Source\\trainn\\Ohce\\Ohce.csproj": {
+              "projectPath": "C:\\Source\\trainn\\Ohce\\Ohce.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

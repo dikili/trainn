@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Source\\repos\\Ohce\\Ohce\\Ohce.csproj": {}
+    "C:\\Source\\trainn\\Ohce\\Ohce.csproj": {}
   },
   "projects": {
-    "C:\\Source\\repos\\Ohce\\Ohce\\Ohce.csproj": {
+    "C:\\Source\\trainn\\Ohce\\Ohce.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Source\\repos\\Ohce\\Ohce\\Ohce.csproj",
+        "projectUniqueName": "C:\\Source\\trainn\\Ohce\\Ohce.csproj",
         "projectName": "Ohce",
-        "projectPath": "C:\\Source\\repos\\Ohce\\Ohce\\Ohce.csproj",
+        "projectPath": "C:\\Source\\trainn\\Ohce\\Ohce.csproj",
         "packagesPath": "C:\\Users\\Fatih\\.nuget\\packages\\",
-        "outputPath": "C:\\Source\\repos\\Ohce\\Ohce\\obj\\",
+        "outputPath": "C:\\Source\\trainn\\Ohce\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
