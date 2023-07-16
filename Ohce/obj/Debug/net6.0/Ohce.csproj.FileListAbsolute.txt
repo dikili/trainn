@@ -1,0 +1,15 @@
+C:\Source\repos\Ohce\Ohce\bin\Debug\net6.0\Ohce.exe
+C:\Source\repos\Ohce\Ohce\bin\Debug\net6.0\Ohce.deps.json
+C:\Source\repos\Ohce\Ohce\bin\Debug\net6.0\Ohce.runtimeconfig.json
+C:\Source\repos\Ohce\Ohce\bin\Debug\net6.0\Ohce.dll
+C:\Source\repos\Ohce\Ohce\bin\Debug\net6.0\Ohce.pdb
+C:\Source\repos\Ohce\Ohce\obj\Debug\net6.0\Ohce.csproj.AssemblyReference.cache
+C:\Source\repos\Ohce\Ohce\obj\Debug\net6.0\Ohce.GeneratedMSBuildEditorConfig.editorconfig
+C:\Source\repos\Ohce\Ohce\obj\Debug\net6.0\Ohce.AssemblyInfoInputs.cache
+C:\Source\repos\Ohce\Ohce\obj\Debug\net6.0\Ohce.AssemblyInfo.cs
+C:\Source\repos\Ohce\Ohce\obj\Debug\net6.0\Ohce.csproj.CoreCompileInputs.cache
+C:\Source\repos\Ohce\Ohce\obj\Debug\net6.0\Ohce.dll
+C:\Source\repos\Ohce\Ohce\obj\Debug\net6.0\refint\Ohce.dll
+C:\Source\repos\Ohce\Ohce\obj\Debug\net6.0\Ohce.pdb
+C:\Source\repos\Ohce\Ohce\obj\Debug\net6.0\Ohce.genruntimeconfig.cache
+C:\Source\repos\Ohce\Ohce\obj\Debug\net6.0\ref\Ohce.dll
